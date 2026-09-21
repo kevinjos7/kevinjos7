@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hola, soy Kevin Saldaña
 
-<!--
-**kevinjos7/kevinjos7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Estudiante de Desarrollo de Aplicaciones Web (DAW)**
 
-Here are some ideas to get you started:
+Soy un desarrollador en formación apasionado por crear soluciones eficientes y escalables. Actualmente curso mi segundo año del Grado Superior en DAW. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Sobre mí
+
+- 🎓 **Educación:** Estudiante de 2º año de DAW. Previamente formado en montaje y reparación de equipos informáticos.
+- 💼 **Experiencia actual:** En prácticas como desarrollador/soporte AMS.
+- 🌱 **Enfoque:** Desarrollo Full-Stack, arquitecturas limpias (MVC), APIs RESTful y gestión de bases de datos.
+- 🌍 **Idiomas:** Español (Nativo), Inglés (B2) y Catalán (B1).
+
+### 🛠️ Tecnologías y Herramientas
+
+**Frontend:**
+- HTML5, CSS3, Tailwind CSS
+- JavaScript, TypeScript
+- React, Next.js
+
+**Backend:**
+- PHP (Arquitecturas MVC personalizadas)
+- Node.js (Express)
+
+**Bases de Datos & ORMs:**
+- SQL (MySQL, PostgreSQL)
+- NoSQL (MongoDB)
+- Prisma, TypeORM, Mongoose, Active Record
+
+**Infraestructura & Herramientas:**
+- Git, GitHub, GitHub Actions
+- Docker
+- Postman, TablePlus
+
+---
